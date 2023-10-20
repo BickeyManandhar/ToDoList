@@ -25,7 +25,7 @@ body{
 }
 
 .btn-todo{
-  background-color: rgb(111, 4, 4);
+  background-color: green;
   color: white;
   border: none;
   border-radius: 10px;
